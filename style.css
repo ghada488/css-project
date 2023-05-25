@@ -32,6 +32,8 @@ cursor: pointer;
 .login1:hover{
   background-color: white;
   color:red;
+  transition: 1.8s;
+
 }
 .login2{
 background-color: blue;
@@ -48,6 +50,7 @@ cursor: pointer;
 .login2:hover{
   background-color: white;
   color:blue ;
+  transition: 1.8s;
 }
 .login3{
   background-color: green;
@@ -64,4 +67,6 @@ cursor: pointer;
 .login3:hover{
   background-color: white;
   color: green;
+  transition: 1.8s;
+
 }
